@@ -1,12 +1,5 @@
-Implement a Queue constructor.
 
-implement enqueue as a method of your Queue constructor
-this should add an item to the queue
-implement dequeue as a method of your Queue constructor
-this should remove an item from the queue
-Implement a Stack constructor.
+Implement a Queue and it's associated enqueue and dequeue methods using 2 stacks.
 
-implement push as a method of your Stack constructor
-this should add an item to the stack
-implement pop as a method of your Stack constructor
-this should remove an item from the stack
+Hint: you'll want to use one of the stacks to store pushed elements and the other stack to store elements in a reversed order.
+
