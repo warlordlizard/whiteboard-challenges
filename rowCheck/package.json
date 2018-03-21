@@ -1,0 +1,12 @@
+{
+  "name": "rowCheck",
+  "version": "1.0.0",
+  "description": "Create a function that accepts an array of words as it's input.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
